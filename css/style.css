@@ -181,10 +181,10 @@ main {
   color: #fff4e7;
 }
 .fact-contain {
-  margin: 0 auto;
   width: 1200px;
   background-color: #ffffff;
   margin-top: 100px;
+  margin-left: 8%;
 }
 .fact-contain h1 {
   font-weight: 900;
